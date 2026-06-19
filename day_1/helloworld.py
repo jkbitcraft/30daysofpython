@@ -38,4 +38,4 @@ print(type({2,3,4,5})) #set
 print(type({'first_name':'Eric','age':"403",'skills':['JS', 'Python']})) #dict
 
 #Euclidean distance (2,3)(10,8)
-print(((2-3)*(2-3))+((10-8)*(10-8)))
+print(((2-3)**2)+((10-8)**2))
