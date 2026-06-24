@@ -6,7 +6,7 @@ Day 1:
 - Created 'helloworld.py' file
 - Used print functions to solve basic arithmetic and check data types
 
-Learned:
+Topics:
 
 - Creating files
 - Syntax

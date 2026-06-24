@@ -1,6 +1,6 @@
 Day 4
 
-Learned:
+Topics
 
 - Strings
 - Concatenation
@@ -11,7 +11,7 @@ Learned:
 - Slicing strings
 - String methods
 
-Exercise:
+Exercises:
 
 - Strings and concatenation
 - String methods

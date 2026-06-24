@@ -2,7 +2,7 @@ Day 2
 
 - Used python shell to test built in functions
 
-Learned:
+Topics:
 
 - Built in functions
 - Variables

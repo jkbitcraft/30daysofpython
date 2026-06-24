@@ -1,6 +1,6 @@
 Day 5
 
-Learned:
+Topics:
 
 - Lists
 - Tuples
@@ -20,7 +20,7 @@ Learned:
 - Lists and counts
 - Finding/sorting/reversing list items
 
-Exercise:
+Exercises:
 Level 1:
 Simples exercises to test what was learned
 

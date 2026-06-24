@@ -1,13 +1,13 @@
 Day 3
 
-Learned:
+Topcis:
 
 - Booleans
 - Arithmetic Operators
 - Comparison Operators
 - Logical Operators
 
-Exercise:
+Exercises:
 
 - Type casting inputs
 - How to put together simple scripts
