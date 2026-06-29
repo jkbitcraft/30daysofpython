@@ -1,5 +1,6 @@
 #Day 9
 #Exercises: Level 1
+#1-3
 age = int(input("Enter your age: "))
 if age >= 18: 
     print("You are old enough to drive")
@@ -25,6 +26,7 @@ else:
     print(f"{num_1} is equal to {num_2}")
 
 #Exercises: Level 2
+#1-3
 grade = int(input("Mark: "))
 if grade >= 90:
     print("A")
