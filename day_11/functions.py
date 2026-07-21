@@ -252,6 +252,9 @@ def valid_python_variable(vari):
         return False
 print(valid_python_variable("1rint"))
 
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parent.parent / 'resources'))
 from countries_data import countries_data
 
 def most_spoken_languages(countries, n):
