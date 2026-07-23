@@ -95,7 +95,7 @@ print(sentence)
 import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parent.parent / 'resources'))
-from countries_data import countries_data
+from countries_data import countries_data # type: ignore
 
 def categorize_countries(pattern):
     def has_pattern(country):
